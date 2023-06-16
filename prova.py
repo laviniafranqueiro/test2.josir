@@ -6,7 +6,7 @@ st.caption('Lavínia Franqueiro')
 
 user_input = st.text_input("Qual produto você deseja?")
 
-df = pd.read_csv('jupyter2.py.csv') 
+df = pd.read_csv('jupyter3.csv') 
 df
 
 # Check if user has entered something in the text input box
